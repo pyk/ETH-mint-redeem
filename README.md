@@ -11,3 +11,26 @@ The goal of this repository are:
    Mint 1:1 ERC20 arbitary token, Redeem ERC20 token
 
 Let's goo.
+
+## Setup
+
+I use the following `node` and `npm`:
+
+    $ node --version
+    v14.15.0
+    $ npm --version
+    7.20.6
+
+Clone the repository:
+
+    git@github.com:pyk/ETH-mint-redeem.git
+
+Install the
+[Prettier VSCode extension](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
+for code formatter.
+
+Install the dependencies:
+
+    npm install
+
+Start hacking!
