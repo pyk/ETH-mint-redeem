@@ -1,14 +1,18 @@
 {
-  "name": "eth-mint-redeem",
-  "version": "1.0.0",
-  "description": "ETH mint and redeem exploration",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "",
-  "license": "ISC",
-  "devDependencies": {
-    "prettier": "^2.3.2"
-  }
+    "name": "eth-mint-redeem",
+    "version": "1.0.0",
+    "private": true,
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "devDependencies": {
+        "@types/chai": "4.2.21",
+        "@types/mocha": "9.0.0",
+        "@types/node": "16.6.1",
+        "chai": "4.3.4",
+        "hardhat": "2.6.0",
+        "prettier": "2.3.2",
+        "ts-node": "10.2.0",
+        "typescript": "4.3.5"
+    }
 }
