@@ -25,7 +25,7 @@ I use the following `node` and `npm`:
 
 Clone the repository:
 
-    git@github.com:pyk/ETH-mint-redeem.git
+    git clone git@github.com:pyk/ETH-mint-redeem.git
 
 Install the following VSCode extension:
 
